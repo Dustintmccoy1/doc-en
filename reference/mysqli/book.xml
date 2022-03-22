@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- $Revision$ -->
-<book xml:id="book.mysqli" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
- <?phpdoc extension-membership="bundledexternal" ?>
 
- <title>MySQL Improved Extension</title>
-
- <titleabbrev>MySQLi</titleabbrev>
 
 <!-- {{{ preface -->
 
@@ -21,13 +14,7 @@
   <para>
    An overview of software available for using MySQL from PHP can be found
    at <xref linkend="mysqli.overview"/>
-  </para>
-
-  <para>
-   Documentation for MySQL can be found at
-   <link
-   xlink:href="&url.mysql.docs;">&url.mysql.docs;</link>.
-  </para>
+  <
 
   <para>
    Parts of this documentation included from MySQL manual with
